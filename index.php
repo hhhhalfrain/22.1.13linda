@@ -29,5 +29,4 @@
     </div>
     <p><a href="Register.php">不会还有人没有账号吧？注册一个！</a></p>
 </form>
-
 </body>

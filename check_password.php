@@ -28,6 +28,10 @@
         }
 
         else
+        {
             $_SESSION['Email']=$Email;
             header("location:welcome.php");
+        }
+
     }
+    ?>
